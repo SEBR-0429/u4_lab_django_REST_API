@@ -15,7 +15,7 @@ What kind of relationship is Team -> Players? How about Players -> Teams?
 
 ### You do not have to create data for Every team in the league. You do not have to add a complete roster (~30 teams with 30 players each is a lot!) to each team, but we do want to see at least 3 players on each team that you create.
 
-We want to see Index and Show routes for all models.
-CORS and CSRF are not required for this lab
+- We want to see Index and Show routes for all models.
+- CORS and CSRF are not required for this lab
 
 Bonus - Lets take this up a notch by adding a 3rd model in - set up your data so that each team belongs to a specific Conference (North, South, East, West). Again, you do not have to put in every single team that exists in the league, but we want to see you creating at least 2 conferences, that have at least 3 teams within each. 
